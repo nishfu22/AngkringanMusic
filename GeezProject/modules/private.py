@@ -36,7 +36,7 @@ Saya Memiliki Banyak Fitur Seperti :
 • Mencari Lagu Yang ingin di Putar atau di Download.
 • Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkapnya
 
-📌 Special Thanks To : {Nishfu IM}
+📌 Special Thanks To : {OWNER}
 
 Ingin Menambahkan Saya ke Grup Anda? Atau tambahkan saya sebagai pacar kamu?? 🙃 Tambahkan Saya Ke Group Anda!
 </b>""",
