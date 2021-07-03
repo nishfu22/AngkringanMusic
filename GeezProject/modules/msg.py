@@ -20,7 +20,7 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**Hey 👋 Selamat datang kembali di {PROJECT_NAME}
+**Hey 👋 Selamat datang kembali bby ❤ di {PROJECT_NAME}
 
 ✣️ {PROJECT_NAME} dapat Memutar Lagu di Voice Chat Group Dengan cara yang Mudah.
 
@@ -36,7 +36,7 @@ f"""
 3. Ketik `/userbotjoin` dan coba /play <nama lagu>
 × Jika Assistant Bot bergabung selamat menikmati musik, 
 × Jika Assistant Bot tidak bergabung Silahkan Tambahkan @{ASSISTANT_NAME} ke grup Anda dan coba lagi
-
+4.jadikan owner sebagai pacar avv 😱
 
 **» Perintah Untuk dalam grup Member Juga Bisa :**
 
