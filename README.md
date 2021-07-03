@@ -24,7 +24,7 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/vckyou/Geez-MusicProject
+$ git clone https://github.com/nishfu22/NF-Music
 $ cd Geez-MusicProject
 # Upgrade sources
 # Install All Requirements 
