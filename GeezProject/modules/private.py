@@ -53,7 +53,7 @@ Ingin Menambahkan Saya ke Grup Anda? Atau tambahkan saya sebagai pacar kamu?? �
                     InlineKeyboardButton(
                         "💬 Channel Updates", url=f"https://t.me/kutipankitaa"), 
                     InlineKeyboardButton(
-                        "🎈 Group Support", url=f"https://t.me/HappyZgameBot")
+                        "🎈 Group Support", url=f"https://t.me/Angkringan18")
                 ],[
                     InlineKeyboardButton(
                         "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
@@ -100,7 +100,7 @@ def map(pos):
         button = [
             [InlineKeyboardButton("➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [InlineKeyboardButton(text = '💬 Channel Updates', url=f"https://t.me/kutipankitaa"),
-             InlineKeyboardButton(text = '🔰 Group Support', url=f"https://t.me/HappyZgameBot")],
+             InlineKeyboardButton(text = '🔰 Group Support', url=f"https://t.me/Angkringan18")],
             [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}")]
         ]
@@ -168,10 +168,10 @@ async def reload(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/HappyZgameBot"
+                        "Group Support", url=f"https://t.me/Angkringan18"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/pachemild"
+                        "Created By", url=f"https://t.me/Auah05"
                     )
                 ]
             ]
