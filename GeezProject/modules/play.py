@@ -530,8 +530,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤵🏻 Owner", url="https://t.me/pachemild"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/kutipankitaa"),
+                    InlineKeyboardButton("☕ Owner", url="https://t.me/Auah05"),
+                    InlineKeyboardButton("☕ Channel", url="https://t.me/kutipankitaa"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -577,8 +577,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤵🏻 Owner ", url="https://t.me/pachemild"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/kutipankitaa"),
+                    InlineKeyboardButton("☕ Owner ", url="https://t.me/Auah05"),
+                    InlineKeyboardButton("☕ Channel", url="https://t.me/kutipankitaa"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -656,8 +656,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤵🏻 owner ", url="https://t.me/pachemild"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/kutipankitaa"),
+                    InlineKeyboardButton("☕ owner ", url="https://t.me/Auah05"),
+                    InlineKeyboardButton("☕ Channel", url="https://t.me/kutipankitaa"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -794,8 +794,8 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤵🏻 Owner ", url="https://t.me/pachemild"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/kutipankitaa"),
+                    InlineKeyboardButton("☕ Owner ", url="https://t.me/Auah05"),
+                    InlineKeyboardButton("☕ Channel", url="https://t.me/kutipankitaa"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -1024,7 +1024,7 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤵🏻 Owner ", url="https://t.me/pachemild"),
+                    InlineKeyboardButton("☕ Owner ", url="https://t.me/Auah05"),
                     InlineKeyboardButton("🛡️ Channel", url="https://t.me/kutipankitaa"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
