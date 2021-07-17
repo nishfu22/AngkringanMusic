@@ -1,11 +1,11 @@
-<h1 align="centre">🌀 NF-MusicBot 🌀</h1>
+<h1 align="centre">☕ Angkringan MusicBot ☕</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [GameZone](https://t.me/HappyZgameBot)
+### Available on telegram as [Angkringan Telegram](https://t.me/Angkringan18)
 
 <p align="center">
-  <img src="https://telegra.ph/file/6b9e2a0b9632977d825e7.jpg">
+  <img src="https://telegra.ph/file/a5a9d78d25b476f600cd6.jpg">
 </p>
 <h2> Features </h2>
 
@@ -24,7 +24,7 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/nishfu22/NF-Music
+$ git clone https://github.com/nishfu22/AngkringanMusic
 $ cd Geez-MusicProject
 # Upgrade sources
 # Install All Requirements 
@@ -37,7 +37,7 @@ $ python(3) -m GeezProject
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nishfu22/NF-Music/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nishfu22/AngkringanMusic/tree/master)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@vckyou/Geez-String-Session?lite=1&outputonly=1)
