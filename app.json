@@ -1,8 +1,8 @@
 {
-  "name": "🌀NF-Music🌀",
+  "name": "Angkringan MusicBot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/nishfu22/NF-Music",
+  "repository": "https://github.com/nishfu22/AngkringanMusic",
   "stack": "container",
   "buildpacks": [
    {
@@ -30,7 +30,7 @@
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "HappyZgameBot"
+      "value": "Angkringan18"
     },
     "UPDATES_CHANNEL": {
       "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
@@ -40,7 +40,7 @@
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "NF-Music"
+      "value": "Angkringan MusicBot"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten Music Player Anda tanpa @.",
@@ -57,7 +57,7 @@
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/c00201a749a4525ab9a22.jpg"
+      "value": ""
     },        
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
